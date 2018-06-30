@@ -1,0 +1,8 @@
+{
+  "name": "browse-stack-overflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KyleFrisbie/browse-stack-overflow.git",
+  "author": "Kyle L Frisbie <kyle.l.frisbie@gmail.com>",
+  "license": "MIT"
+}
