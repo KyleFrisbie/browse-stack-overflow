@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "git@github.com:KyleFrisbie/browse-stack-overflow.git",
   "author": "Kyle L Frisbie <kyle.l.frisbie@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "phantom": "^6.0.3",
+    "rxjs": "^6.2.1"
+  },
+  "devDependencies": {
+    "@types/phantom": "^3.2.4"
+  }
 }
